@@ -1,4 +1,4 @@
-# rede-social-dev-prototipo
+# rede-social-dev
 
 Projeto front-end simples que simula uma rede social usando Bootstrap 5, Sass e Vite.
 
