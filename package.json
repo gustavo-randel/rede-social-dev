@@ -1,11 +1,13 @@
 {
   "name": "rede-social-dev-prototipo",
+  "homepage": "https://gustavo-randel.github.io/rede-social-dev",
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "dev": "vite",
-    "build": "vite build"
+    "build": "vite build",
+    "deploy": "gh-pages -d dist"
   },
   "keywords": [],
   "author": "",
@@ -17,6 +19,7 @@
   },
   "dependencies": {
     "@popperjs/core": "^2.11.8",
-    "bootstrap": "^5.3.8"
+    "bootstrap": "^5.3.8",
+    "gh-pages": "^6.3.0"
   }
 }
