@@ -5,5 +5,5 @@ export default defineConfig({
   // so just run npm build before pushing to GitHub and this will rebuild our assets to the root
   build: { outDir: 'dist' },
   // needed for github pages just put the repo name here
-  base: '/rede-social-dev-prototipo/', 
+  base: '/rede-social-dev/', 
 });
